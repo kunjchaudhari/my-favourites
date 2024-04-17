@@ -1,0 +1,30 @@
+html {
+  background-color: rgb(7, 176, 255);
+}
+
+body {
+  font-family: Arial, Helvetica, dans-serif;
+  background-color: bisque;
+  border: solid;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+}
+
+hi {
+  color: blue;
+}
+
+h1,
+h2 {
+  font-family: Verdana;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
